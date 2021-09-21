@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=cybersecurity+engineering+student;bug+bounty+hunter;Cybersecurity+Researcher;and+Content+creator!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-Hi, I'm [HackBalak](https://hackbalak.netlify.app/), a cybersecurity engineering student , security researcher , bug bounty hunter and Content Creator .
+Hi, I'm [HackBalak](https://hackbalak.netlify.app/), an Ethical Hacker ,Red Teaming enthusiast and Cyber Security Engineering Student
 
 I do hacking all the time, solving CTF challenges in many platforms like HackTheBox and TryHackme ...
 

@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm HackBalak (:coffee::computer::bulb::heart:) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=CyberSecurity+Engineer;Part-time+Bug+Bounty+Hunter;Red+Teamer;Malware+Analysis+Enthusiast ; Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=CyberSecurity+Engineer;Part-time+Bug+Bounty+Hunter;Red+Teamer+and+Malware+Analysis+Enthusiast;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 Hi, I'm [HackBalak](https://hackbalak.netlify.app/), an Ethical Hacker and Cyber Security Engineer ,Red Teamer and Malware analysis enthusiast.
 

@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Cyber+Security+Engineer;Part-time+Bug+Bounty+Hunter;Red+Teamer+and+Malware+Analysis+Enthusiast;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-Hi, I'm [HackBalak](https://hackbalak.netlify.app/), an Ethical Hacker and Cyber Security Engineer ,Red Teamer and Malware analysis enthusiast.
+Hi, I'm [HackBalak](https://hackbalak.github.io/about/), an Ethical Hacker and Cyber Security Engineer ,Red Teamer and Malware analysis enthusiast.
 
 I have excellent problem-solving skills, I can think like a hacker, my technical competence is broad, and I have excellent communication skills and a passion for continual learning and development. I am comfortable working with different computer and operating systems; I can troubleshoot quickly and explain situations in plain English so everyone understands.
 
